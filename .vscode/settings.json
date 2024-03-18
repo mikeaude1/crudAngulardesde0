@@ -1,0 +1,11 @@
+{
+    "angular.enable-strict-mode-prompt": false,
+    "maven.excludedFolders": [
+        
+        "**/.*",
+        "**/node_modules",
+        "**/target",
+        "**/bin",
+        "**/archetype-resources"
+    ]
+}
