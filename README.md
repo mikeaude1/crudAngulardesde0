@@ -7,3 +7,4 @@ Este es un crud de clientes que te permite insertar clientes en una base de dato
 ![notify2](https://github.com/mikeaude1/crudAngulardesde0/assets/88689268/0a1dda13-7715-49b4-a51b-5976238ec0e5)
 ![vistaeditar](https://github.com/mikeaude1/crudAngulardesde0/assets/88689268/ec45be25-7243-4de2-a878-f0d0a000d2b2)
 ![eliminar](https://github.com/mikeaude1/crudAngulardesde0/assets/88689268/0a1a6cef-1de6-494f-ae24-f4669cc8d989)
+![eliminado](https://github.com/mikeaude1/crudAngulardesde0/assets/88689268/8dcd6620-c29a-4650-a947-bb04a5638873)
